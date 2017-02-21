@@ -1,0 +1,20 @@
+{
+  "name": "citibike-viz",
+  "description": "visualizing citibike routes",
+  "main": "index.js",
+  "authors": [
+    "Eunice Lee <elee@triplelift.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/eunice",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "PruneCluster": "^1.1.0"
+  }
+}
